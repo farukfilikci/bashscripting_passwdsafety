@@ -1,1 +1,0 @@
-# bashscripting_passwdsafety
